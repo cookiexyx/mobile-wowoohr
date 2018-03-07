@@ -1,0 +1,54 @@
+{
+    "msg": "", 
+    "result": {
+        "cityMap": {
+            "value": "广州", 
+            "key": "440100"
+        }, 
+        "orderMonth": "2017-07", 
+        "payEndDay": "", 
+        "idCard": "211*************18", 
+        "orderDetailDtoList": [
+            {
+                "lists": [
+                    {
+                        "name": "工伤", 
+                        "value": 538
+                    }, 
+                    {
+                        "name": "服务费", 
+                        "value": 133
+                    }
+                ], 
+                "title": "2017年7月"
+            }
+        ], 
+        "orderScheduleDtoList": [
+            {
+                "schedule": "申报失败", 
+                "createTime": "2017-07-03 11:02", 
+                "description": "参保人居民医保在保，下月如需缴纳请先持本人身份证到所在街道办理居民医保停保", 
+                "status": 3
+            }, 
+            {
+                "schedule": "等待退款", 
+                "createTime": "", 
+                "description": "退款金额：0元，预计在1到3日内退款", 
+                "status": 2
+            }
+        ], 
+        "orderStatus": 22, 
+        "helpUrl": "https://cschat.antcloud.com.cn/h5portal.htm?tntInstId=GERGUJCN&scene=SCE00000363", 
+        "hasSchedule": 1, 
+        "content": "申报失败", 
+        "applyId": "158b72f97d5fad72", 
+        "payAmount": 671, 
+        "isRepay": 1, 
+        "name": "广***", 
+        "productType": {
+            "value": "社保", 
+            "key": "1"
+        }
+    }, 
+    "code": "200"
+}

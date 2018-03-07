@@ -1,0 +1,124 @@
+{
+  "code":"200",
+  "msg":"",
+  "result":{
+    "proviceList":[
+      {
+        "key": "110100",
+        "value": "上海"
+      },
+      {
+        "key": "110101",
+        "value": "北京"
+      },
+      {
+        "key": "110102",
+        "value": "广州"
+      }
+    ],
+    "cityList":{
+      "110100": [
+          {
+            "key": "110100",
+            "value": "上饶市"
+          },
+          {
+            "key": "110100",
+            "value": "宜春市"
+          },
+          {
+            "key": "110100",
+            "value": "赣州市"
+          },
+          {
+            "key": "110100",
+            "value": "景德镇市"
+          }
+      ],
+      "110101": [
+          {
+            "key": "110100",
+            "value": "上饶市"
+          },
+          {
+            "key": "110100",
+            "value": "宜春市"
+          },
+          {
+            "key": "110100",
+            "value": "赣州市"
+          },
+          {
+            "key": "110100",
+            "value": "景德镇市"
+          }
+      ],
+      "110102": [
+          {
+            "key": "110100",
+            "value": "上饶市"
+          },
+          {
+            "key": "110100",
+            "value": "宜春市"
+          },
+          {
+            "key": "110100",
+            "value": "赣州市"
+          },
+          {
+            "key": "110100",
+            "value": "景德镇市"
+          }
+      ]
+    },
+    "residenceNature1": [
+      {
+        "key": "1",
+        "value": "本地城镇"
+      },
+      {
+        "key": "2",
+        "value": "本地农村"
+      },
+      {
+        "key": "3",
+        "value": "外地城镇"
+      },
+      {
+        "key": "4",
+        "value": "外地农村"
+      }
+    ],
+    "education": [
+      {
+        "key": "1",
+        "value": "博士"
+      },
+      {
+        "key": "2",
+        "value": "硕士"
+      },
+      {
+        "key": "3",
+        "value": "本科"
+      },
+      {
+        "key": "4",
+        "value": "大专"
+      },
+      {
+        "key": "5",
+        "value": "高中/中专"
+      }
+    ],
+    "educationShow":true,
+    "residenceNatureShow":true,
+    "fundAccountShow": true,
+    "hkPicUrlOfOwnpageShow": true,
+    "residenceCityShow": true,
+    "siNumberShow": true,
+    "hkPicUrlOfHomepageShow": true,
+    "hkPicUrlOfHeaderpageShow": true
+  }
+}

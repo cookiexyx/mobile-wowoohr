@@ -1,0 +1,24 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "result": {
+      "orderMonthList": [ 
+        {
+          "orderId": "1",
+          "orderMonth": "2017-05",
+          "orderStatus":{
+            "key":"1",
+            "value":"待支付"
+          }
+        },
+        {
+          "orderId": "2",
+          "orderMonth": "2017-04",
+          "orderStatus":{
+            "key":"3",
+            "value":"已申报"
+          }
+        }
+      ]
+    }
+}

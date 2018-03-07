@@ -1,0 +1,9 @@
+{
+    "code":"200",
+    "msg":"",
+    "result":{
+        "isEqual":false,
+        "cityName":"上海",
+        "productName":"公积金"
+    }
+}

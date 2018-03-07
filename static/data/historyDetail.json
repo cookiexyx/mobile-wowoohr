@@ -1,0 +1,26 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "result": {      
+      "orderScheduleDtoList":[  
+        {
+        "schedule": "支付成功",
+        "description": "具体的进度描述(有模板文案)",
+        "createTime": "2017-05-21 12:22:22",
+        "status":1   
+        },
+        {
+        "schedule": "等待社保申报",
+        "description": "具体的进度描述(有模板文案)",
+        "createTime": "",
+        "status":2    
+        },
+        {
+        "schedule": "等待公积金申报",
+        "description": "具体的进度描述(有模板文案)",
+        "createTime": "",
+        "status":2    
+        }
+      ]
+    }
+}

@@ -1,0 +1,986 @@
+{
+    "msg": "",
+    "result": {
+        "contactOptions": [
+            {
+                "address": "上海市长宁区协和路68弄5号202室",
+                "education": {
+                    "value": "",
+                    "key": ""
+                },
+                "city": {
+                    "value": "",
+                    "key": ""
+                },
+                "socialSecurityNumber": "123456",
+                "fundAccount": "123456",
+                "idCard": "210782198806284769",
+                "name": "好的环境中",
+                "mobile": "15788454545",
+                "idCardPicUrlB": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardBack/nickName/201776/1499343263735_1499343266577.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=ueCurxDM0HTTATQQ4py3KWncyM8%3D",
+                    "key": "e4e67faf945b1f2c05f435c294502bad48f1c1343b85cb1dbfa93b015521807edfc9b4062fa2c30a2f5d5af7b4a373f4f03b1edc6edf81f2ac732371fa9c9f84"
+                },
+                "residenceNature": {
+                    "value": "城镇",
+                    "key": "1"
+                },
+                "idCardPicUrlA": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                },
+                "hkPicUrlOfHomepage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                },
+                "hkPicUrlOfHeaderpage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                },
+                "hkPicUrlOfOwnpage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                }
+            },
+            {
+                "address": "上海市长宁区协和路68弄5号202室",
+                "education": {
+                    "value": "",
+                    "key": ""
+                },
+                "city": {
+                    "value": "",
+                    "key": ""
+                },
+                "socialSecurityNumber": "123456",
+                "fundAccount": "123456",
+                "idCard": "210224199007216341",
+                "name": "能解决",
+                "mobile": "15876767676",
+                "idCardPicUrlB": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardBack/nickName/201776/1499340210722_1499340213250.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=fQnx%2B%2FjZwER%2B2wcgPw9iMHg6xKo%3D",
+                    "key": "e4e67faf945b1f2c05f435c294502bad48f1c1343b85cb1dbfa93b015521807e119a4fcf66b442513a1285bec2166c07377214e167b098b0ac732371fa9c9f84"
+                },
+                "residenceNature": {
+                    "value": "城镇",
+                    "key": "1"
+                },
+                "idCardPicUrlA": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499340201029_1499340203923.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=xnnk6nlcIbXRaqr8j8HmWeN%2FGUc%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae1fb0fcd2c2a48105b241c0103f925c0b533b572bb3a8c7926241f616011935e86"
+                },
+                "hkPicUrlOfHomepage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                },
+                "hkPicUrlOfHeaderpage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                },
+                "hkPicUrlOfOwnpage": {
+                    "value": "http://pss-test.oss-cn-shanghai.aliyuncs.com/idCardFront/nickName/201776/1499343238874_1499343241221.jpg?Expires=1499484471&OSSAccessKeyId=LTAIHNJqKzYHupx2&Signature=HvDzeqPE%2B2D%2BBr%2BSFr%2Bo063EueU%3D",
+                    "key": "ef59dfbd1e0f5eacdec87cf5ef8d4af0ab35d9eb257c7484de1e789b4e733ae133aadec7336b0ce45871af9b0969513056209586677e9360241f616011935e86"
+                }
+            }
+        ],
+        "payMonthOption": [
+            {
+                "serviceCharge": 37.6,
+                "applyMonth": "2017-07",
+                "payEndDay": "2017-07-25",
+                "handleEndDay":"2017-10-20",
+                "value": 1,
+                "key": "2017-08"
+            },
+            {
+                "serviceCharge": 37.6,
+                "applyMonth": "2017-08",
+                "payEndDay": "2017-07-25",
+                "handleEndDay":"2017-10-21",
+                "value": 2,
+                "key": "2017-09"
+            },
+            {
+                "serviceCharge": 37.6,
+                "applyMonth": "2017-09",
+                "payEndDay": "2017-07-25",
+                "handleEndDay":"2017-10-22",
+                "value": 3,
+                "key": "2017-10"
+            }
+        ],
+        "productId": "4f7b5fd5722e6ba9",
+        "cityName": "厦门",
+        "cityCode": "350200",
+        "paymentOption": {
+            "1": [
+                {
+                    "applyBase": 1700,
+                    "total": 6519.6,
+                    "value": 1,
+                    "key": "每月缴纳3259.80元"
+                },
+                {
+                    "applyBase": 5360,
+                    "total": 10981.28,
+                    "value": 2,
+                    "key": "每月缴纳5490.64元"
+                },
+                {
+                    "applyBase": 16081,
+                    "total": 32937.44,
+                    "value": 3,
+                    "key": "每月缴纳16468.72元"
+                }
+            ],
+            "2": [
+                {
+                    "applyBase": 1700,
+                    "total": 6519.6,
+                    "value": 1,
+                    "key": "每月缴纳2616.40元"
+                },
+                {
+                    "applyBase": 5360,
+                    "total": 10981.28,
+                    "value": 2,
+                    "key": "每月缴纳4418.64元"
+                },
+                {
+                    "applyBase": 16081,
+                    "total": 32937.44,
+                    "value": 3,
+                    "key": "每月缴纳13252.72元"
+                }
+            ],
+            "3": [
+                {
+                    "applyBase": 1700,
+                    "total": 5232.8,
+                    "value": 1,
+                    "key": "每月缴纳2616.40元"
+                },
+                {
+                    "applyBase": 5360,
+                    "total": 8837.28,
+                    "value": 2,
+                    "key": "每月缴纳4418.64元"
+                },
+                {
+                    "applyBase": 16081,
+                    "total": 26505.44,
+                    "value": 3,
+                    "key": "每月缴纳13252.72元"
+                }
+            ]
+        },
+        "currentIdCard": "210782198806284769",
+        "list": {
+            "1-1": [
+                {
+                    "payMonth": "2017-07",
+                    "lists": [
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 643.4
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年7月"
+                },
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 643.4
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年8月"
+                }
+            ],
+            "1-2": [
+                {
+                    "payMonth": "2017-07",
+                    "lists": [
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 1072
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年7月"
+                },
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 1072
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年8月"
+                }
+            ],
+            "2-1": [
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 643.4
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年8月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 643.4
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ],
+            "1-3": [
+                {
+                    "payMonth": "2017-07",
+                    "lists": [
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 3216
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-07",
+                            "applyMonth": "2017-06",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年7月"
+                },
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 3216
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年8月"
+                }
+            ],
+            "2-2": [
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 1072
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年8月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 1072
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ],
+            "3-1": [
+                {
+                    "payMonth": "2017-10",
+                    "lists": [
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年10月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 3.4
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 2575.6
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 11.9
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 25.5
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ],
+            "2-3": [
+                {
+                    "payMonth": "2017-08",
+                    "lists": [
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "养老",
+                            "remittedState": 1,
+                            "insuranceType": 1,
+                            "value": 3216
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-08",
+                            "applyMonth": "2017-07",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年8月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "养老",
+                            "remittedState": 3,
+                            "insuranceType": 1,
+                            "value": 3216
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ],
+            "3-2": [
+                {
+                    "payMonth": "2017-10",
+                    "lists": [
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年10月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 10.72
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 4290
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 37.52
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 80.4
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ],
+            "3-3": [
+                {
+                    "payMonth": "2017-10",
+                    "lists": [
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "工伤",
+                            "remittedState": 3,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "医疗",
+                            "remittedState": 3,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "生育",
+                            "remittedState": 3,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-10",
+                            "applyMonth": "2017-09",
+                            "name": "失业",
+                            "remittedState": 3,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年10月"
+                },
+                {
+                    "payMonth": "2017-09",
+                    "lists": [
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "工伤",
+                            "remittedState": 1,
+                            "insuranceType": 2,
+                            "value": 32.16
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "医疗",
+                            "remittedState": 1,
+                            "insuranceType": 3,
+                            "value": 12866.8
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "生育",
+                            "remittedState": 1,
+                            "insuranceType": 4,
+                            "value": 112.56
+                        },
+                        {
+                            "payMonth": "2017-09",
+                            "applyMonth": "2017-08",
+                            "name": "失业",
+                            "remittedState": 1,
+                            "insuranceType": 5,
+                            "value": 241.2
+                        }
+                    ],
+                    "title": "2017年9月"
+                }
+            ]
+        },
+        "productType": {
+            "value": "社保",
+            "key": "1"
+        },
+        "notice": "123",
+        "policy": "根据厦门社保政策，首次申报需缴纳2个月费用"
+    },
+    "code": "200"
+}

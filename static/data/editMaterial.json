@@ -1,0 +1,38 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "result": {
+        "applyId":"applyId",
+        "name":"张三",
+        "nameShow":false,
+        "idCard":"410225198909101234",
+        "idCardShow":true,
+        "idCardPicUrlA":{
+            "key":"2",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "idCardPicUrlAShow":true,
+        "idCardPicUrlB":{
+            "key":"1",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "idCardPicUrlBShow":true,
+        "address":9999,
+        "addressShow":true,
+        "hkPicUrlOfHomepageShow": true,
+        "hkPicUrlOfHomepage": {
+            "key":"1232132",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "hkPicUrlOfOwnpageShow": true,
+        "hkPicUrlOfOwnpage": {
+            "key":"1232132",
+            "url":"http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        },
+        "hkPicUrlOfHeaderpageShow": true,
+        "hkPicUrlOfHeaderpage": {
+          "key": "e4e67faf945b1f2c05f435c294502bad48f1c1343b85cb1df849584016b8103db4e3148ae24d1e35b3dc86a861457dabeb241f5b4e06dfadccd4c519a601563c",
+          "url": "http://digg.chinaxy.org/attachments/3/33384981e2b39481987459fd32ddb16f.jpg"
+        }
+    }
+}

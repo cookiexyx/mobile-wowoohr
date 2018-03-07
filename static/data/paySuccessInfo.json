@@ -1,0 +1,22 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "result": {
+		"payAmount":"1111.11",
+		"helpUrl":"http://baidu.com",
+		"orderScheduleDtoList": [  
+	    {
+	      "schedule": "付款成功",
+	      "description": "",
+	      "createTime": "05-21 12:22",
+		  "status":1   
+	    },
+	    {
+	      "schedule": "等待申报结果",
+	      "description": "预计2017-09-09申报完成",
+		  "createTime": "",
+		  "status":2    
+	    }
+	    ]
+	}
+}
